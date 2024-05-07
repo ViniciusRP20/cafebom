@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(231, 245, 244) ;
+    font-size: normal 17px;
+
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .button{
+    text-align: center;
+    border-radius: 10px;
+    padding: 12px 24px
+ }
+    /* Cor da barra de navegação */
+    .navbar {
+        background-color: black;
+    }
+
+    /* Cor do texto e do botão na barra de navegação */
+    .navbar-light .navbar-brand{
+        color: black;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: black;
+    
+    }
+
+    .btn-primary{
+        background-color: #FF0000; /* Vermelho */
+        border-color: #FF0000; /* Vermelho */
+        color: #FFFFFF; /* Branco */
+    }
+
+
+    /* Estilo da barra de pesquisa */
+    .form-control {
+        background-color: white;
+        color: black;
+        border-color: black;
+    }
+
+    /* Estilo do botão de pesquisa */
+    .btn-outline-success {
+        color: black; 
+        border-color: white;
+    }
+
+    .card-text{
+        color: #FF0000;
+    }
+    .texto-principal{
+        color: black;
+    }
+    .Pesquisar{
+        background-color: #FF0000; /* Cor de fundo vermelha */
+        border-color: #FF0000; /* Cor da borda vermelha */
+        color: #FFFFFF; /* Cor do texto branco */
+    }
+
+    .Pesquisar{
+        background-color: #CC0000; /* Cor de fundo mais escura quando focada */
+        border-color: #CC0000; /* Cor da borda mais escura quando focada */
+    }
+    .card-img-top {
+        width: 100%; /* Largura 100% do contêiner pai */
+        height: auto; /* Altura automática para manter a proporção */
+    }
+    .custom-footer {
+        background-color:  #CC0000; /* Cor de fundo escura */
+        color: #fff; /* Cor do texto branca */
+        padding: 100%
+    }
+
